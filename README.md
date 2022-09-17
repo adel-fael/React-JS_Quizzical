@@ -1,7 +1,7 @@
 # React-JS_Quizzical
  CSS React-JS
 
-Live URL: 
+Live URL: [Quizzical](#)
 
 
 ![preview1](./preview1.png)
