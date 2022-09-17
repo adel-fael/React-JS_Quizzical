@@ -1,7 +1,7 @@
 # React-JS_Quizzical
  CSS React-JS
 
-Live URL: [Quizzical](#)
+Live URL: [Quizzical](https://react-quizzical-app.netlify.app/)
 
 
 ![preview1](./preview1.png)
